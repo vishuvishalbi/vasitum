@@ -1,6 +1,6 @@
 ***Installation***
 
-1. extract vasitum.zip file
+1. git clone https://github.com/vishuvishalbi/vasitum.git
 2. change directory to vasitum
 3. npm i
 4. npm start
